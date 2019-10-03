@@ -1,0 +1,3 @@
+Superman,Metropolis,Clark Kent
+Batman,Gotham City,Bruce Wayne
+Flash,Central City,Barry Allen
